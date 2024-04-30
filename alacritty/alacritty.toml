@@ -10,3 +10,6 @@ decorations = "Full"
 
 [font]
 normal = { family = "0xProto Nerd Font" }
+
+[env]
+term = "xterm-256color"
