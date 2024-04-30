@@ -1,0 +1,12 @@
+[shell]
+program = "tmux"
+
+[colors]
+    [colors.primary]
+        background = "#3a3a3a"
+
+[window]
+decorations = "Full"
+
+[font]
+normal = { family = "0xProto Nerd Font" }
